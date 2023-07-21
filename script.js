@@ -1,4 +1,5 @@
 // Utilisez getElementById pour sélectionner les éléments avec un ID
+
 const searchInput = document.getElementById("inputText");
 const searchButton = document.getElementById("buttonToSearch");
 const searchResult = document.getElementById("results");
